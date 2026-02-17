@@ -1,1 +1,1 @@
-# Udacity-Data-Science-Degree
+# Udacity-Data-Science-NanoDegree
