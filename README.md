@@ -1,5 +1,5 @@
 # Udacity-Data-Science-NanoDegree
-
+Project No. 1 in the Udacity Data Science Nanodegree by Sri Matam
 
 # AI Adoption in Stack Overflow Developer Survey 2025
 
@@ -8,7 +8,7 @@ This repository contains code and assets for a blog post analyzing AI adoption, 
 ## Contents
 - `ai_survey_2025_analysis.ipynb` — Jupyter notebook with EDA, modeling, and a scenario prediction following CRISP-DM.
 - `figs/` — Exported charts used in the blog post.
-- `survey_results_public2025.csv` — Source data (placed locally; not committed here by default).
+- `survey_results_public2025.csv` — Source data (placed locally).
 
 ## Environment & Libraries
 - Python 3.x
