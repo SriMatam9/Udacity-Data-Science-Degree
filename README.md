@@ -3,7 +3,7 @@ Project No. 1 in the Udacity Data Science Nanodegree by Sri Matam
 
 # AI Adoption in Stack Overflow Developer Survey 2025
 
-This repository contains code and assets for a blog post analyzing AI adoption, AI models used, perceived AI threat, and AI agent usage among developers, using the 2025 Stack Overflow Developer Survey public data.
+This repository contains code and assets for a blog post analyzing AI adoption, AI models used, perceived AI threat, and AI agent usage among developers, using the 2025 Stack Overflow Developer Survey public data(https://survey.stackoverflow.co/2025).
 
 ## Contents
 - `ai_survey_2025_analysis.ipynb` — Jupyter notebook with EDA, modeling, and a scenario prediction following CRISP-DM.
